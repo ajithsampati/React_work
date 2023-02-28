@@ -1,0 +1,34 @@
+/* .
+ */
+.mainhead {
+ text-align: center;
+
+}
+.mainnav a{
+  flex-wrap: wrap;
+  margin-left: 150px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: brown;
+  font-size: 20px;
+
+
+}
+.mainnav{
+  text-align: center;
+  background-color: black;
+  height: 30px;
+ 
+}
+.MainFooter{
+  
+  
+ text-align: center;
+ margin-top: 500px;
+ color: brown;
+ background-color: black;
+ height: 50px;
+ font-weight: bold;
+  font-size: 20px;
+}
